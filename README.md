@@ -5,9 +5,9 @@
 
 
 
-###  Global Explanations for Bias Identification
+###  Global explanations for discovering bias in data
 
-Agnieszka Mikołajczyk, Michał Grochowski, Arkadiusz Kwasigroch
+Agnieszka Mikołajczyk, Michał Grochowski, Arkadiusz Kwasigroch [[paper]](https://arxiv.org/abs/2005.02269)
 
 **Abstarct**:
 In the paper, we propose attention-based summarized
