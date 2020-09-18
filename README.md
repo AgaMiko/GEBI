@@ -137,3 +137,7 @@ to all images: black frames, black rural, and red circles.
 ### Codes
 
 Codes can be found in notebook directory. Images used for experiments are provided in the data directory. Images are already preprocessed with Attention Map Generation method.
+
+* [GEBI notebook](notebooks/GEBI.ipynb) - easy-to-follow script of implemented GEBI method on the example of skin lesions. For quick calculations we provided precalculated attribution maps.
+* [SpRay notebook](notebooks/spray.ipynb) - easy-to-follow script of implemented original SpRay method on the example of skin lesions. For quick calculations we provided precalculated attribution maps.
+* [modofied SpRay notebook](notebooks/spray.ipynb) - easy-to-follow script of implemented modified SpRay method with additional Isomap dimensionality reduction on the example of skin lesions. For quick calculations we provided precalculated attribution maps.
