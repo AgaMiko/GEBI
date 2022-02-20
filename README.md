@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/261506912.svg)](https://zenodo.org/badge/latestdoi/261506912)
+
+
 # GEBI
  Global Explanations for Bias Identification
 
@@ -141,3 +146,8 @@ Codes can be found in notebook directory. Images used for experiments are provid
 * [GEBI notebook](notebooks/GEBI.ipynb) - easy-to-follow script of implemented GEBI method on the example of skin lesions. For quick calculations we provided precalculated attribution maps.
 * [SpRay notebook](notebooks/spray.ipynb) - easy-to-follow script of implemented original SpRay method on the example of skin lesions. For quick calculations we provided precalculated attribution maps.
 * [modofied SpRay notebook](notebooks/spray.ipynb) - easy-to-follow script of implemented modified SpRay method with additional Isomap dimensionality reduction on the example of skin lesions. For quick calculations we provided precalculated attribution maps.
+
+## Acknowledgments
+
+The research reported in this publication was supported by Polish National Science Centre (Grant
+Preludium No: UMO-2019/35/N/ST6/04052). The authors wish to express their thanks for the support.
